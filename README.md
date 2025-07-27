@@ -10,7 +10,7 @@ Este repositorio tiene como objetivo centralizar y documentar mis trabajos de fo
 
 | Proyecto | Descripción breve | Tecnologías | Enlace |
 |---------|--------------------|-------------|--------|
-| 💬 *Onlychat** | Aplicación de mensajería en tiempo real con WebSocket y JWT. | Angular, Spring Boot, PostgreSQL | [Ver más](./projects/onlychat.md) |
+| 💬 **Onlychat** | Aplicación de mensajería en tiempo real con WebSocket y JWT. | Angular, Spring Boot, PostgreSQL | [Ver más](./projects/onlychat.md) |
 ---
 
 ## 🎯 Objetivo del Repositorio
@@ -38,7 +38,7 @@ Este repositorio tiene como objetivo centralizar y documentar mis trabajos de fo
 Puedes contactarme:
 
 - ✉️ germanreyesdeveloper@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/german-oswaldo-reyes-perdido-41382a148/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/german-oswaldo-reyes-perdido-41382a148/)
 - 🧑‍💻 [Perfil de GitHub](https://github.com/osweld)
 
 ---
