@@ -29,7 +29,8 @@
 ![Frontend – Imagen 8](../assets/onlychat/8.png) 
 ![Frontend – Imagen 9](../assets/onlychat/9.png) 
 ![Frontend – Imagen 10](../assets/onlychat/10.png) 
-![Frontend – Imagen 11](../assets/onlychat/11.png) 
+![Frontend – Imagen 11](../assets/onlychat/11.png)
+
 <p align="center">
   <img src="../assets/onlychat/12.png" alt="Frontend – Imagen 12" /><br><br>
   <img src="../assets/onlychat/13.png" alt="Frontend – Imagen 13" />
@@ -37,6 +38,7 @@
 
 
 
+![Base de datos](../assets/onlychat/base_de_datos.png) 
 
 ---
 
